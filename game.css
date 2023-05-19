@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    display: flexbox;
 }
 button{
     font-size: 100px;
